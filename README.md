@@ -8,7 +8,7 @@ My name is Kris, as in Kristoffeh 👋 I am 23 years old and occasionally does p
 * PHP AJAX
 
 ### 💬 Connect with me
-- [Twitter](https://twitter.com/kristophlol)
+- [Twitter](https://twitter.com/itskrissthenor)
 - Discord: kriss#7890
 
 <!--
