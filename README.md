@@ -2,14 +2,13 @@
 My name is Kris, as in Kristoffeh 👋 I am 24 years old and occasionally does programming projects either as a hobby or for my business.
 
 ### 🌱 Languages 
-* C# WPF
+* C# WinForms, WPF
 * HTML, CSS
 * Bootstrap
 * PHP AJAX
 
 ### 💬 Connect with me
-- [Twitter](https://twitter.com/itskrissthenor)
-- Discord: kriss#7890
+- Discord: Kriss#1234
 
 <!--
 **Kristoffeh/Kristoffeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
