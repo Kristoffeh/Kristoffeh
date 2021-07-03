@@ -1,5 +1,5 @@
 ### 🤔 Intro
-My name is Kris, as in Kristoffeh 👋 I am 23 years old and occasionally does programming projects either as a hobby or for my business.
+My name is Kris, as in Kristoffeh 👋 I am 24 years old and occasionally does programming projects either as a hobby or for my business.
 
 ### 🌱 Languages 
 * C# WPF
