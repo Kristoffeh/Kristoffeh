@@ -1,5 +1,5 @@
 ### 🤔 Intro
-My name is Kris, as in Kristoffeh 👋 I am 24 years old and occasionally does programming projects either as a hobby or for my business.
+My name is Kris, as in Kristoffeh 👋 I am 24 years old and occasionally do programming projects as a hobby.
 
 ### 🌱 Languages 
 * C# WinForms, WPF
@@ -7,8 +7,8 @@ My name is Kris, as in Kristoffeh 👋 I am 24 years old and occasionally does p
 * Bootstrap
 * PHP AJAX
 
-### 💬 Connect with me
-- Discord: Kriss#1234
+### 💬 Get in touch
+- Discord: hsf54fs5645kriss6hs65fj456#6722
 
 <!--
 **Kristoffeh/Kristoffeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
